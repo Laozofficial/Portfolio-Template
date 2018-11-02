@@ -1,0 +1,10 @@
+nav.navbar-top {
+    width: 100%;
+    height: 20%;
+    background-color: black;
+    padding: 13%;
+}
+
+#logo {
+    color: white;
+}
